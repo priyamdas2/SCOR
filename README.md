@@ -3,3 +3,6 @@ SCOR can be used for global optimization of any non-differentiable/discontinuous
 
 # Citation
 Das P, De D, Maiti R, Kamal M, Hutcheson K, Fuller C, Chakraborty B, Peterson C (2022) : Estimating the optimal linear combination of predictors using spherically constrained optimization, BMC bioinformatics 23 (3), 1-20.
+
+# Instructions
+See 'README.pdf' for instructions.
